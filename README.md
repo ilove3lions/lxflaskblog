@@ -7,9 +7,4 @@
 - 7.部署程序，`python manager.py deploy`
 - 8.在本地运行程序,`python manager.py runserver`打开http://127.0.0.1:5000端口查看, 按Ctrl+C退出程序。
 
-## 部署完成后的效果
-![image](https://github.com/happyte/flask-blog/blob/master/images/2.png)
-
-
-![image](https://github.com/happyte/flask-blog/blob/master/images/3.png)
 
