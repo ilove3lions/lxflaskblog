@@ -1,0 +1,1 @@
+@"c:\users\ha\desktop\lxflaskblog\venv\scripts\python.exe" "c:\users\ha\desktop\lxflaskblog\venv\Scripts\markdown_py" %*
